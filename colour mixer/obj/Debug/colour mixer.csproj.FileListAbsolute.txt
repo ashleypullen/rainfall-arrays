@@ -1,0 +1,10 @@
+C:\Users\ashle\source\repos\colour mixer\colour mixer\obj\Debug\colour mixer.csprojAssemblyReference.cache
+C:\Users\ashle\source\repos\colour mixer\colour mixer\obj\Debug\colour_mixer.Form1.resources
+C:\Users\ashle\source\repos\colour mixer\colour mixer\obj\Debug\colour_mixer.Properties.Resources.resources
+C:\Users\ashle\source\repos\colour mixer\colour mixer\obj\Debug\colour mixer.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\colour mixer\colour mixer\obj\Debug\colour mixer.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\colour mixer\colour mixer\bin\Debug\colour mixer.exe.config
+C:\Users\ashle\source\repos\colour mixer\colour mixer\bin\Debug\colour mixer.exe
+C:\Users\ashle\source\repos\colour mixer\colour mixer\bin\Debug\colour mixer.pdb
+C:\Users\ashle\source\repos\colour mixer\colour mixer\obj\Debug\colour mixer.exe
+C:\Users\ashle\source\repos\colour mixer\colour mixer\obj\Debug\colour mixer.pdb
